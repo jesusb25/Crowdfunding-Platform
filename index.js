@@ -27,6 +27,19 @@ const gamesContainer = document.getElementById("games-container");
 
 // create a function that adds all data from the games array to the page
 function addGamesToPage(games) {
+  games.forEach(game => {
+    // create a new div element which will be come the game card that displays info about a game
+    const gameCard = document.createElement("div");
+    gameCard.classList.add("game-card");
+
+    // set inner HTML using a template literal to display some info about each game
+    gameCard.innerHTML += `<img class="game-img" src="${game.img}" alt="${game.name}">`
+    gameCard.innerHTML = `<h3 class="game-name">${game.name}</h3>`
+    gameCard.innerHTML += `<p class="game-description">${game.description}</p>`
+
+    // append the game to the games-container
+    gamesContainer.appendChild(gameCard);
+  });
 
     // loop over each item in the data
 
