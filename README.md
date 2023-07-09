@@ -4,7 +4,7 @@ Submitted by: Jesus Ballestereos
 
 Crowdfunding website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
@@ -26,10 +26,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://www.loom.com/share/f65fbeca234c487cadb4e09b30ed7b60?sid=a2c005cc-f46a-418a-817b-da604a065951' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/f65fbeca234c487cadb4e09b30ed7b60?sid=cead6e80-5564-42d1-97f6-f45e98472237" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with loom
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
