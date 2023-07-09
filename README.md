@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/f65fbeca234c487cadb4e09b30ed7b60?sid=a2c005cc-f46a-418a-817b-da604a065951' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/ezgif.com-optimize.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with loom
