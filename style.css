@@ -79,3 +79,33 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.search-bar {
+    width: 33%;
+    padding: 1%;
+    border-radius: 7px;
+    border: none;
+    align-items: center;
+}
+
+.stats-container {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+}
+
+.nav-btn {
+    background-color: #a8b0bc;
+    position: absolute;
+    right: 10px;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+    border: none;
+    font-size: x-large;
+    cursor: pointer;
+}
+
+.nav-btn:hover {
+    box-shadow: 0 0 30px black;
+}
