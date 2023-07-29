@@ -1,3 +1,3 @@
 # WEB102 - Crowdfunding website
 
-## Check it out here: https://jesusb25.github.io/web102_prework/
+## Check it out here: [LINK] (https://jesusb25.github.io/Crowdfunding-Platform/)
